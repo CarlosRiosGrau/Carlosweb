@@ -1,0 +1,364 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    
+    
+}
+
+header{
+
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    background-color: black;
+
+}
+
+
+#imageleaf {
+
+    margin-top: 2%;
+    position: absolute;
+    width: 10%;
+    height: 50%;
+    
+}
+
+#title1{
+
+    margin-top: 3%;
+    margin-left: 12%;
+    color: white;
+
+}
+
+nav{
+    height: 30%;
+    text-align: center;
+    margin-top: -1%;
+    
+  }
+
+  nav ul{
+     list-style: none;
+     display: inline-block;
+     padding:18px;
+  }
+
+  nav ul li{
+      float: left;
+     
+      
+  }
+
+  nav ul li a {
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 20px;
+      padding: 18px;
+      background-color: #929fb3;
+   
+      
+  }
+
+  nav ul li a:hover{
+   background-color: bisque;
+    height: 1%;
+    width: 1%;
+  }
+
+  body{
+
+    height: 100%; 
+    width: 100%;
+   background-color: cornsilk;
+
+  }
+
+  footer{
+   
+    margin-top: 20%; 
+    background-color: #929fb3;
+    height: 10%;
+    width: 95%;
+    position: absolute;
+    padding-left: 5%;
+    display: flex;
+    top: 47%;
+    
+
+  }
+
+  footer h2 {
+
+    margin-left: 20%;
+    margin-top: 2%;
+
+  }
+
+  #firstcage{
+
+    position: absolute;
+    width: 100%;
+    height: 35%;
+    top: 20%;
+    
+  }
+
+
+#pro1{
+
+position: absolute;
+height: 80%;
+top: 10%;
+padding-left: 10%;
+
+}
+
+#pro2{
+
+
+    position: absolute;
+    height: 90%;
+   padding-top: 16%;
+    padding-left: 10%;
+    left: 60%;
+    
+}
+
+#texto1caja{
+
+    font-size: 16px;
+    position: absolute;
+    padding-left: 35%;
+    text-align: center;
+    padding-right: 5%;
+    padding-top: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#texto2caja{
+
+    font-size: 16px;
+    position: absolute;
+    text-align: center;
+    padding-right: 35%;
+    padding-top: 22%;
+    padding-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+ 
+}
+
+#foto1{
+
+  margin-top: 9%;
+  width: 50%;
+  position: absolute;
+  height: 72%;
+  
+
+}
+
+#textofoto1{
+
+  margin-top: 9%;
+  width: 50%;
+  position: absolute;
+  height: 72%;
+ 
+  margin-left: 50%;
+
+
+
+}
+
+#caja1pro{
+
+width: 30%;
+position: absolute;
+height: 55%;
+margin-top: 12%;
+margin-left: 3%;
+
+
+}
+
+#caja2pro{
+
+  width: 28%;
+  position: absolute;
+  height: 55%;
+  margin-top: 12%;
+  margin-left: 35%;
+
+}
+
+
+
+#caja3pro{
+
+  width: 33%;
+  position: absolute;
+  height: 55%;
+  margin-top: 12%;
+  margin-left: 65%;
+  
+
+}
+
+#fotopico{
+  
+  position: absolute;
+  width: 60%;
+  height: 100%;
+  padding-left: 15%;
+
+}
+
+#titulofoto{
+
+  padding-top: 5%;
+  text-align: center;
+
+
+
+}
+
+.p1{
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-top: 8%;
+  padding-right: 5%;
+  padding-right: 5%;
+
+}
+
+#page1{
+
+  font-family: Arial, Helvetica, sans-serif;
+  
+  position: absolute;
+
+  margin-top: 40%;
+
+  margin-left: 32%;
+
+}
+
+#page2{
+
+  font-family: Arial, Helvetica, sans-serif;
+  
+  position: absolute;
+
+  margin-top: 40%;
+
+  margin-left: 63%;
+
+
+}
+
+#formulario{
+
+  font-family: Arial, Helvetica, sans-serif;
+  
+  position: absolute;
+
+  margin-top: 16%;
+  
+  left: 65%;
+
+
+}
+
+form{
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+}
+
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+form input[type="text"],
+form input[type="email"]{
+	width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+}
+
+form input[type="submit"]{
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+} 
+
+form input[type="submit"]:hover{
+	cursor:pointer;
+}
+
+textarea{
+	width:100%;
+	height:100px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;			
+	margin:8px 0;
+	/*resize: vertical | horizontal | none | both*/
+	resize:none;
+	display:block;
+}
+
+#fotopico2{
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  padding-left: 12%;
+  height: 80%;
+  top: 15%;
+
+}
+
+#caja1img{
+
+  position: absolute;
+  border: 4px solid #000000;
+  width: 99%;
+  height: 99%;
+
+}
+
+#caja2img{
+
+  position: absolute;
+  border: 4px solid #000000;
+  width: 99%;
+  height: 99%;
+}
+
+#caja3img{
+
+  position: absolute;
+  border: 4px solid #000000;
+  width: 99%;
+  height: 99%;
+}
